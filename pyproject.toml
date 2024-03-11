@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "tweets-to-rss"
+version = "0.1.0"
+description = ""
+authors = ["Daniele Scasciafratte <daniele@codeat.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
